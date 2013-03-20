@@ -2,13 +2,12 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title 
 
-timezone: '+0100'
-
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "taekwondo-strancice.sublime-project", "taekwondo-strancice.sublime-workspace", "run.sh"]
 destination: _site
 auto: true
 pygments: true
 safe: true
+lsi: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
