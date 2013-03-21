@@ -9,12 +9,14 @@
 					{% assign pages_list = site.pages %}
 					{% include custom/pages_left_menu %}
 				{% else %}
+					{% comment %}<!--
 					{% assign category = page.url | split:'/' %}
 					{% if category contains menu %}
 						<li class="active"><a href="{{ BASE_PATH }}{{page.url}}#{{category.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
 					{% else %}
 						<li><a href="{{ BASE_PATH }}{{page.url}}#{{category.last}}"><i class="icon-chevron-right"></i> {{page.title}}</a></li>
 					{% endif %}
+					-->{% endcomment %}
 					{% for menuItem in menu %}
 						{% if menuItem.name != null %}
 							<li><a href="{{ BASE_PATH }}{{page.url}}{{menuItem.href}}"><i class="icon-chevron-right"></i> {{menuItem.name}}</a></li>
