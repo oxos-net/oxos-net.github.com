@@ -17,7 +17,12 @@ http://taekwondo-strancice.cz/categories.html
 http://taekwondo-strancice.cz/skola/
 http://taekwondo-strancice.cz/404.html
 
+http://taekwondo-strancice.cz/novinky/zavody/best-of-best-2013
+http://taekwondo-strancice.cz/novinky/uspesne-slozeni-zkousek-na-mistrovske-stupne-I-III-dan
+http://taekwondo-strancice.cz/novinky/zkousky/zkousky-na-technicke-stupne-dan-ceske-budejovice
+http://taekwondo-strancice.cz/media/foto/test
 http://taekwondo-strancice.cz/novinky/zavody/budweis-grand-prix-taekwon-do-itf-open
+http://taekwondo-strancice.cz/novinky/ohlednuti-za-mistrovstvim-cr-2013
 http://taekwondo-strancice.cz/novinky/platby-sokolu-na-rok-2013
 http://taekwondo-strancice.cz/novinky/zavody/mcr-2013
 http://taekwondo-strancice.cz/novinky/zprava-o-cinnosti-za-rok-2012
@@ -27,3 +32,4 @@ http://taekwondo-strancice.cz/novinky/zavody/vanocni-pohar-2012
 http://taekwondo-strancice.cz/novinky/zkousky/zkousky-na-zakovske-technicke-stupne
 http://taekwondo-strancice.cz/novinky/o-skole/zalozeni-uctu-v-bance
 http://taekwondo-strancice.cz/novinky/o-skole/skola-taekwon-do-itf-strancice-se-stala-obcanskym-sdruzenim
+http://taekwondo-strancice.cz/novinky/
